@@ -6,6 +6,15 @@ This repository contains the complete software implementation and algorithms dev
 
 ---
 
+## Competition Images
+
+<img width="7008" height="4672" alt="AF205621" src="https://github.com/user-attachments/assets/1037603f-12a5-4d59-8468-8f6244a00882" />
+<img width="7008" height="4672" alt="AF205617" src="https://github.com/user-attachments/assets/711338cf-0e0d-43b2-aa54-ca5695557eb9" />
+<img width="4898" height="3265" alt="AF205640" src="https://github.com/user-attachments/assets/4b698456-e596-458b-9d4e-a3c9b55218f1" />
+<img width="4898" height="3265" alt="AF205637" src="https://github.com/user-attachments/assets/41784bb3-d693-424d-b07c-6b3719b01ff1" />
+
+---
+
 ## 🚀 Project Overview
 The project simulates and deploys an automated warehouse logistics fleet. A swarm of three custom-built 3-wheel holonomic mobile robots (**Glacio**, **Crystal**, and **Frostbite**) must coordinate to identify, transport, and stack color-coded crates (Red, Green, Blue) into designated cooling bays. 
 
