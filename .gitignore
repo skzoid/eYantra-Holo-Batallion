@@ -1,0 +1,22 @@
+# Ignore downloaded offline HTML pages and assets
+*.html
+*_files/
+compile_site.py
+compile_toc.py
+replace_icons.py
+
+# Ignore Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Ignore large telemetry logs and data dumps
+src/lol.txt
+src/crate_yaw.txt
+src/yaw_data.pkl
+src/data.txt
+src/result.txt
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
