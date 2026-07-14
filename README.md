@@ -105,7 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team & Acknowledgments
-*   Developed by **Team Holo Battalion** (Team ID: *Your e-Yantra Team ID*)
+## 👥 Acknowledgments
 *   Secured **3rd Rank Nationally** in eYRC 2025-26.
 *   We express our gratitude to the **Theme Developers at IIT Bombay (e-Yantra)** for designing this learning experience and providing simulated assets.
